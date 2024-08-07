@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursoc#\\workaccount\\workaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursoc#\\workaccount\\workaccount\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursoc#\\workaccount\\workaccount\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursoc#\\workaccount\\workaccount\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Program.cs",
+              "RelativeDocumentMoniker": "WorkAccount\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Program.cs",
+              "RelativeToolTip": "WorkAccount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:24:36.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "WorkAccount\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "WorkAccount\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:33:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "WorkAccount\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "WorkAccount\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:25:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "WorkAccount\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\Entities\\Account.cs",
+              "RelativeToolTip": "WorkAccount\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:25:08.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
