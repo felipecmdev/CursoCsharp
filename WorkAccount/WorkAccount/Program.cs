@@ -28,7 +28,17 @@ namespace Program
                 BusinessAccount acc5 = (BusinessAccount)acc3;
             }
 
+            //SOBREPOSIÇÃO
 
+            Account acc6 = new Account(1005, "Jon", 500.0);
+            Account acc7 = new SavingsAccount(1006, "Rob", 500.0, 0.01);
+
+            acc6.Withdraw(10.0);
+            acc7.Withdraw(10.0);
+
+            //acc5 TERÁ UMA TAXA DE 5% FICANDO COM R$485 ENQUANTO acc6 TERÁ  R$490 NÃO TENDO TAXA
+            Console.WriteLine("R$" + acc6.Balance);
+            Console.WriteLine(acc7.Balance);
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.AssemblyInfoInputs.cache
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.AssemblyInfo.cs
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.csproj.CoreCompileInputs.cache
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.sourcelink.json
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\bin\Debug\net8.0\WorkAccount.exe
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\bin\Debug\net8.0\WorkAccount.deps.json
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\bin\Debug\net8.0\WorkAccount.runtimeconfig.json
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\bin\Debug\net8.0\WorkAccount.dll
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\bin\Debug\net8.0\WorkAccount.pdb
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.dll
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\refint\WorkAccount.dll
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.pdb
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\WorkAccount.genruntimeconfig.cache
+C:\Users\felipe.moura\Desktop\CursoCsharp\WorkAccount\WorkAccount\obj\Debug\net8.0\ref\WorkAccount.dll

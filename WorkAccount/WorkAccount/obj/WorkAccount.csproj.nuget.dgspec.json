@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\WorkAccount.csproj": {}
+    "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\WorkAccount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\WorkAccount.csproj": {
+    "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\WorkAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\WorkAccount.csproj",
+        "projectUniqueName": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\WorkAccount.csproj",
         "projectName": "WorkAccount",
-        "projectPath": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\WorkAccount.csproj",
+        "projectPath": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\WorkAccount.csproj",
         "packagesPath": "C:\\Users\\felipe.moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.moura\\Desktop\\CursoC#\\WorkAccount\\WorkAccount\\obj\\",
+        "outputPath": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",

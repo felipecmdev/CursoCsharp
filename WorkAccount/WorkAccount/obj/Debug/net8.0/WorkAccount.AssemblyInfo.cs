@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkAccount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ea8b3f9892a6602d0b5a339b34b10579b15cc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkAccount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkAccount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
