@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|c:\\users\\felto\\onedrive\\\u00E1rea de trabalho\\clientorder\\clientorder\\clientorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|solutionrelative:clientorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|c:\\users\\felto\\onedrive\\\u00E1rea de trabalho\\clientorder\\clientorder\\clientorder\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|solutionrelative:clientorder\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|c:\\users\\felto\\onedrive\\\u00E1rea de trabalho\\clientorder\\clientorder\\clientorder\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|solutionrelative:clientorder\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|c:\\users\\felto\\onedrive\\\u00E1rea de trabalho\\clientorder\\clientorder\\clientorder\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|solutionrelative:clientorder\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|c:\\users\\felto\\onedrive\\\u00E1rea de trabalho\\clientorder\\clientorder\\clientorder\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|solutionrelative:clientorder\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|c:\\users\\felto\\onedrive\\\u00E1rea de trabalho\\clientorder\\clientorder\\clientorder\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338D6552-6F18-4FCC-9F4C-543E84DB6997}|ClientOrder\\ClientOrder.csproj|solutionrelative:clientorder\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ClientOrder\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "ClientOrder\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:08:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ClientOrder\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Product.cs",
+              "RelativeToolTip": "ClientOrder\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:07:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ClientOrder\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ClientOrder\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:06:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ClientOrder\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Client.cs",
+              "RelativeToolTip": "ClientOrder\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:05:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ClientOrder\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Entities\\Order.cs",
+              "RelativeToolTip": "ClientOrder\\Entities\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:03:53.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Program.cs",
+              "RelativeDocumentMoniker": "ClientOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\felto\\OneDrive\\\u00C1rea de Trabalho\\ClientOrder\\ClientOrder\\ClientOrder\\Program.cs",
+              "RelativeToolTip": "ClientOrder\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:00:36.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
