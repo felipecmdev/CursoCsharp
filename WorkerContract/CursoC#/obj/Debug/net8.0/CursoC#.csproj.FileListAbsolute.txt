@@ -1,0 +1,14 @@
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\bin\Debug\net8.0\CursoC#.exe
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\bin\Debug\net8.0\CursoC#.deps.json
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\bin\Debug\net8.0\CursoC#.runtimeconfig.json
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\bin\Debug\net8.0\CursoC#.dll
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\bin\Debug\net8.0\CursoC#.pdb
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.AssemblyInfoInputs.cache
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.AssemblyInfo.cs
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.csproj.CoreCompileInputs.cache
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.dll
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\refint\CursoC#.dll
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.pdb
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\CursoC#.genruntimeconfig.cache
+C:\Users\felipe.moura\Desktop\CursoC#\CursoC#\CursoC#\obj\Debug\net8.0\ref\CursoC#.dll
