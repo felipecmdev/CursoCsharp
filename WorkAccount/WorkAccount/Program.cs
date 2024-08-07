@@ -36,7 +36,7 @@ namespace Program
             acc6.Withdraw(10.0);
             acc7.Withdraw(10.0);
 
-            //acc5 TERÁ UMA TAXA DE 5% FICANDO COM R$485 ENQUANTO acc6 TERÁ  R$490 NÃO TENDO TAXA
+            //acc5 TERÁ UMA TAXA DE 5 REAIS FICANDO COM R$485 ENQUANTO acc6 TERÁ  R$490 NÃO TENDO TAXA
             Console.WriteLine("R$" + acc6.Balance);
             Console.WriteLine(acc7.Balance);
         }

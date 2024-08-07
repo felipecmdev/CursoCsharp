@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\",
+  "WorkspaceRootPath": "D:\\codes\\CursoCsharp\\WorkAccount\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\workaccount\\workaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkAccount\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\workaccount\\workaccount\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkAccount\\Entities\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\workaccount\\workaccount\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkAccount\\Entities\\BusinessAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\workaccount\\workaccount\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{852B2033-98E4-48B9-8617-E4CEC5E4D299}|WorkAccount\\WorkAccount.csproj|solutionrelative:workaccount\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkAccount\\Entities\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Program.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Program.cs",
               "RelativeDocumentMoniker": "WorkAccount\\Program.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Program.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Program.cs",
               "RelativeToolTip": "WorkAccount\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T11:24:36.491Z",
               "IsPinned": true,
@@ -48,42 +48,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SavingsAccount.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs",
               "RelativeDocumentMoniker": "WorkAccount\\Entities\\SavingsAccount.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\SavingsAccount.cs",
               "RelativeToolTip": "WorkAccount\\Entities\\SavingsAccount.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:33:40.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T12:33:40.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "WorkAccount\\Entities\\BusinessAccount.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "WorkAccount\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:25:23.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BusinessAccount.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs",
-              "RelativeDocumentMoniker": "WorkAccount\\Entities\\BusinessAccount.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\BusinessAccount.cs",
-              "RelativeToolTip": "WorkAccount\\Entities\\BusinessAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T11:25:23.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\Account.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "WorkAccount\\Entities\\Account.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\Account.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\WorkAccount\\WorkAccount\\Entities\\Account.cs",
               "RelativeToolTip": "WorkAccount\\Entities\\Account.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAmwBMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T11:25:08.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T11:25:08.555Z"
             }
           ]
         }

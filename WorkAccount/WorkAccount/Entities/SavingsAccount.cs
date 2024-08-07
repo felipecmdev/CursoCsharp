@@ -20,6 +20,9 @@
 
         public override void Withdraw(double amount)
         {
+            //CASO QUEIRA UTILIZAR A FUNÇÃO DA SUPERCLASSE E ADICIONAR ALGO APENAS USE base
+            //base.Withdraw(amount)
+            //Balance -= 2.0
             Balance -= amount;
         }
     }
