@@ -1,0 +1,15 @@
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\bin\Debug\net8.0\EmployeeProfile.exe
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\bin\Debug\net8.0\EmployeeProfile.deps.json
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\bin\Debug\net8.0\EmployeeProfile.runtimeconfig.json
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\bin\Debug\net8.0\EmployeeProfile.dll
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\bin\Debug\net8.0\EmployeeProfile.pdb
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.AssemblyInfoInputs.cache
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.AssemblyInfo.cs
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.csproj.CoreCompileInputs.cache
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.sourcelink.json
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.dll
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\refint\EmployeeProfile.dll
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.pdb
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\EmployeeProfile.genruntimeconfig.cache
+C:\Users\felipe.moura\Desktop\CursoCsharp\EmployeeProfile\EmployeeProfile\obj\Debug\net8.0\ref\EmployeeProfile.dll
