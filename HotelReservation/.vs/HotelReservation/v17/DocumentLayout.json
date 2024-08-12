@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\",
+  "WorkspaceRootPath": "D:\\codes\\CursoCsharp\\HotelReservation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{287E7633-ED52-4B6A-9CF8-D94971A2F5CC}|HotelReservation\\HotelReservation.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\hotelreservation\\hotelreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287E7633-ED52-4B6A-9CF8-D94971A2F5CC}|HotelReservation\\HotelReservation.csproj|solutionrelative:hotelreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E94B21-BEAE-4926-A864-259CA5C60E49}|HotelReservation\\HotelReservation.csproj|d:\\codes\\cursocsharp\\hotelreservation\\hotelreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E94B21-BEAE-4926-A864-259CA5C60E49}|HotelReservation\\HotelReservation.csproj|solutionrelative:hotelreservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287E7633-ED52-4B6A-9CF8-D94971A2F5CC}|HotelReservation\\HotelReservation.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\hotelreservation\\hotelreservation\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287E7633-ED52-4B6A-9CF8-D94971A2F5CC}|HotelReservation\\HotelReservation.csproj|solutionrelative:hotelreservation\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E94B21-BEAE-4926-A864-259CA5C60E49}|HotelReservation\\HotelReservation.csproj|d:\\codes\\cursocsharp\\hotelreservation\\hotelreservation\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E94B21-BEAE-4926-A864-259CA5C60E49}|HotelReservation\\HotelReservation.csproj|solutionrelative:hotelreservation\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{287E7633-ED52-4B6A-9CF8-D94971A2F5CC}|HotelReservation\\HotelReservation.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\hotelreservation\\hotelreservation\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{287E7633-ED52-4B6A-9CF8-D94971A2F5CC}|HotelReservation\\HotelReservation.csproj|solutionrelative:hotelreservation\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E94B21-BEAE-4926-A864-259CA5C60E49}|HotelReservation\\HotelReservation.csproj|d:\\codes\\cursocsharp\\hotelreservation\\hotelreservation\\entities\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E94B21-BEAE-4926-A864-259CA5C60E49}|HotelReservation\\HotelReservation.csproj|solutionrelative:hotelreservation\\entities\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\HotelReservation\\Program.cs",
-              "RelativeDocumentMoniker": "HotelReservation\\Program.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\HotelReservation\\Program.cs",
-              "RelativeToolTip": "HotelReservation\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwCUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:18:01.625Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Exceptions\\DomainException.cs",
-              "RelativeDocumentMoniker": "HotelReservation\\Entities\\Exceptions\\DomainException.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Exceptions\\DomainException.cs",
-              "RelativeToolTip": "HotelReservation\\Entities\\Exceptions\\DomainException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Title": "DomainExceptions.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Exceptions\\DomainExceptions.cs",
+              "RelativeDocumentMoniker": "HotelReservation\\Entities\\Exceptions\\DomainExceptions.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Exceptions\\DomainExceptions.cs",
+              "RelativeToolTip": "HotelReservation\\Entities\\Exceptions\\DomainExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:37:46.213Z",
+              "WhenOpened": "2024-08-12T19:05:59.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Reservation.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Reservation.cs",
               "RelativeDocumentMoniker": "HotelReservation\\Entities\\Reservation.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\HotelReservation\\HotelReservation\\Entities\\Reservation.cs",
               "RelativeToolTip": "HotelReservation\\Entities\\Reservation.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T13:19:55.718Z",
+              "WhenOpened": "2024-08-12T19:05:35.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\codes\\CursoCsharp\\HotelReservation\\HotelReservation\\Program.cs",
+              "RelativeDocumentMoniker": "HotelReservation\\Program.cs",
+              "ToolTip": "D:\\codes\\CursoCsharp\\HotelReservation\\HotelReservation\\Program.cs",
+              "RelativeToolTip": "HotelReservation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:04:35.145Z",
               "EditorCaption": ""
             }
           ]

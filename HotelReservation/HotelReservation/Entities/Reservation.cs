@@ -1,4 +1,5 @@
 ﻿using HotelReservation.Entities.Exceptions;
+using System;
 
 namespace HotelReservation.Entities
 {
