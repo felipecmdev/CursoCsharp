@@ -1,0 +1,7 @@
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\obj\Debug\AccountTryCatch.csproj.AssemblyReference.cache
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\obj\Debug\AccountTryCatch.csproj.CoreCompileInputs.cache
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\bin\Debug\AccountTryCatch.exe.config
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\bin\Debug\AccountTryCatch.exe
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\bin\Debug\AccountTryCatch.pdb
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\obj\Debug\AccountTryCatch.exe
+D:\codes\CursoCsharp\AccountTryCatch\AccountTryCatch\obj\Debug\AccountTryCatch.pdb

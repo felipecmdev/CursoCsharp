@@ -1,0 +1,7 @@
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\bin\Debug\ItemsDescriptions.exe.config
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\bin\Debug\ItemsDescriptions.exe
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\bin\Debug\ItemsDescriptions.pdb
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\obj\Debug\ItemsDescriptions.csproj.AssemblyReference.cache
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\obj\Debug\ItemsDescriptions.csproj.CoreCompileInputs.cache
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\obj\Debug\ItemsDescriptions.exe
+D:\codes\CursoCsharp\ItemsDescriptions\ItemsDescriptions\obj\Debug\ItemsDescriptions.pdb
