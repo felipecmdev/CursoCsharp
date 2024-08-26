@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\services\\rentalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\services\\rentalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|c:\\users\\felipe.moura\\desktop\\cursocsharp\\interfacetest\\interfacetest\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A176D7-936D-4E3E-81E8-EA117B67F7D0}|InterfaceTest\\InterfaceTest.csproj|solutionrelative:interfacetest\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceTest\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Program.cs",
+              "RelativeToolTip": "InterfaceTest\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:39:31.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "InterfaceTest\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Services\\ITaxService.cs",
+              "RelativeToolTip": "InterfaceTest\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:55:03.476Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "RentalServices.cs",
               "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Services\\RentalServices.cs",
               "RelativeDocumentMoniker": "InterfaceTest\\Services\\RentalServices.cs",
               "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Services\\RentalServices.cs",
               "RelativeToolTip": "InterfaceTest\\Services\\RentalServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:33:21.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "BrazilTaxService.cs",
               "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Services\\BrazilTaxService.cs",
               "RelativeDocumentMoniker": "InterfaceTest\\Services\\BrazilTaxService.cs",
               "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Services\\BrazilTaxService.cs",
               "RelativeToolTip": "InterfaceTest\\Services\\BrazilTaxService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T19:59:28.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CarRental.cs",
               "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Entities\\CarRental.cs",
               "RelativeDocumentMoniker": "InterfaceTest\\Entities\\CarRental.cs",
               "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Entities\\CarRental.cs",
               "RelativeToolTip": "InterfaceTest\\Entities\\CarRental.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T19:28:08.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Entities\\Invoice.cs",
               "RelativeDocumentMoniker": "InterfaceTest\\Entities\\Invoice.cs",
               "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Entities\\Invoice.cs",
               "RelativeToolTip": "InterfaceTest\\Entities\\Invoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T17:38:06.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "InterfaceTest\\Entities\\Vehicle.cs",
               "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Entities\\Vehicle.cs",
               "RelativeToolTip": "InterfaceTest\\Entities\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:36:28.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceTest\\Program.cs",
-              "ToolTip": "C:\\Users\\felipe.moura\\Desktop\\CursoCsharp\\InterfaceTest\\InterfaceTest\\Program.cs",
-              "RelativeToolTip": "InterfaceTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T15:39:31.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:36:28.446Z"
             }
           ]
         }

@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.Contracts;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Course.Services;
+using System;
 
 namespace InterfaceTest.Services
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {

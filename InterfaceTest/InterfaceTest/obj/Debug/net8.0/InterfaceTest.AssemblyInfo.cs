@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d74623eb9861ea8e394887154b0d6842302b008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52433547f7ad2ff9741d5748943f5f3d9d195f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
