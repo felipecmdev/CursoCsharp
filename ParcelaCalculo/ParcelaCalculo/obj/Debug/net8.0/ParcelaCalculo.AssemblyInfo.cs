@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcelaCalculo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be60c12bab3d8bc7f803abbec9b4339c23491389")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a42713c33234817d7b6f71e143764582b07e6240")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcelaCalculo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcelaCalculo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
